@@ -6,7 +6,9 @@
 //     time = clock.getHours()+":"+clock.getMinutes()+":"+clock.getSeconds();
 //     document.getElementById('time').innerHTML=time + "<br>"+ date; 
 // }, 1000);
-    
+
+// create a event 
+
 var timezone1 = setInterval(newdelhi,1000);
     
 function newdelhi()
