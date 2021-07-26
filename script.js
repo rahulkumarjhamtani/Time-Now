@@ -10,7 +10,8 @@
 // create an event 
 
 var timezone1 = setInterval(newdelhi,1000);
-    
+
+// india
 function newdelhi()
 {
     clearInterval(timezone1);
