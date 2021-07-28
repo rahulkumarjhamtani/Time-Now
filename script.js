@@ -38,6 +38,8 @@ function newdelhi()
     document.getElementById('time').style.color="rgb(62, 86, 196)"; 
     document.getElementById('country').style.color="rgb(62, 86, 196)"; 
 }
+
+// new york
 function newyork()
 {
     clearInterval(timezone1);
