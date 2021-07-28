@@ -87,7 +87,6 @@ function newyork()
     document.getElementById('country').style.color="rgb(0, 196, 167)"; 
 }
 
-// london
 function london()
 {
     clearInterval(timezone1);
@@ -134,6 +133,8 @@ function london()
     document.getElementById('time').style.color="rgb(52, 136, 206)"; 
     document.getElementById('country').style.color="rgb(52, 136, 206)"; 
 }
+
+// tokyo
 function tokyo()
 {
     clearInterval(timezone1);
