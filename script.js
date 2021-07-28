@@ -39,7 +39,7 @@ function newdelhi()
     document.getElementById('country').style.color="rgb(62, 86, 196)"; 
 }
 
-// new yor
+// new york
 function newyork()
 {
     clearInterval(timezone1);
