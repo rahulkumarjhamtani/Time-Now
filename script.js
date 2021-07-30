@@ -11,7 +11,7 @@
 
 var timezone1 = setInterval(newdelhi,1000);
 
-// india
+// INDIA
 function newdelhi()
 {
     clearInterval(timezone1);
