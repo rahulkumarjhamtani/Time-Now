@@ -230,6 +230,8 @@ function dubai()
     document.getElementById('time').style.color="rgb(232, 188, 78)"; 
     document.getElementById('country').style.color="rgb(232, 188, 78)"; 
 }
+
+// sydney
 function sydney()
 {
     clearInterval(timezone1);
