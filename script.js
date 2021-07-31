@@ -135,7 +135,7 @@ function london()
     document.getElementById('country').style.color="rgb(52, 136, 206)"; 
 }
 
-// tokyo
+// TOKYO
 function tokyo()
 {
     clearInterval(timezone1);
