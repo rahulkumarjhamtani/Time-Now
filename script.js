@@ -231,7 +231,7 @@ function dubai()
     document.getElementById('country').style.color="rgb(232, 188, 78)"; 
 }
 
-// sydney
+// SYDNEY
 function sydney()
 {
     clearInterval(timezone1);
