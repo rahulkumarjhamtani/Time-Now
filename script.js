@@ -183,7 +183,7 @@ function tokyo()
     document.getElementById('country').style.color="rgb(62, 196, 135)"; 
 }
 
-// dubai
+// DUBAI
 function dubai()
 {
     clearInterval(timezone1);
