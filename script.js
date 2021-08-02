@@ -7,7 +7,7 @@
 //     document.getElementById('time').innerHTML=time + "<br>"+ date; 
 // }, 1000);
 
-// create an event 
+// CREATE AN EVENT
 
 var timezone1 = setInterval(newdelhi,1000);
 
